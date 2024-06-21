@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Minho%20Kim&fontSize=90&fontcolor=black"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=minseo%20Bae&fontSize=90&fontcolor=black"/>
  
  
  <br>
