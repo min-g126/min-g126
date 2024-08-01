@@ -7,7 +7,7 @@
  <div align="center">
   
  📖 ***Studying Now*** 📖
- 
+
 <img src="https://img.shields.io/badge/python-5F9EA0?style=flat-square&logo=python&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Java-5F9EA0?style=flat-square&logo=Java&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/-JavaScript-brightgreen?style=flat-square&logo=JavaScript&logoColor=white"/></a>
